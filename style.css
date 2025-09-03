@@ -140,7 +140,6 @@ main {
 .contact-form label {
   display: block;
   margin-bottom: 0.5rem;
-  font-weight: bold;
   color: #32cd32;
 }
 
@@ -168,7 +167,6 @@ main {
   border: none;
   padding: 1rem 2rem;
   cursor: pointer;
-  font-weight: bold;
   transition: transform 0.3s ease;
 }
 
